@@ -22,7 +22,7 @@
 
 # Sobre mim 🖋️
 <div>
-  <p> Sou programador há mais de 4 anos e atuo profissionalmente na área há 2 anos. Iniciei meus estudos como autodidata, focando na stack Java. Desenvolvi diversos projetos, tanto back-end quanto front-end, e construí um repertório extenso de projetos, incluindo até mesmo uma rede social em grupo feita do zero com Spring Boot e Angular. Além disso, fiz diversos cursos na área e sou fascinado por descobrir e estudar novas tecnologias..
+  <p> Sou programador há mais de 4 anos e atuo profissionalmente na área há 2 anos. Iniciei meus estudos como autodidata, focando na stack Java. Desenvolvi diversos projetos, tanto back-end quanto front-end, e construí um repertório extenso de projetos. Além disso, fiz diversos cursos na área e sou fascinado por descobrir e estudar novas tecnologias.
   </p>
 
    <p> 
