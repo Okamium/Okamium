@@ -1,4 +1,4 @@
-<img align="right" width="80em" src="https://github.com/Okamium/Okamium/blob/main/arthas.gif">
+<img align="right" width="50em" src="https://github.com/Okamium/Okamium/blob/main/arthas.gif">
 
 ### Olá, meu nome é Lucas, sou desenvolvedor com foco em Java e Spring!
 
