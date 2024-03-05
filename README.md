@@ -22,11 +22,14 @@
 
 # Sobre mim 🖋️
 <div>
-  <p> Sou programador há mais de 4 anos e atuo profissionalmente na área há 2 anos. Iniciei meus estudos como autodidata, focando na stack Java. Desenvolvi diversos projetos, tanto back-end quanto front-end, e construí um repertório extenso de projetos. Além disso, fiz diversos cursos na área e sou fascinado por descobrir e estudar novas tecnologias.
+  <p> 
+    - Sou programador há mais de 4 anos e atuo profissionalmente na área há 2 anos.
   </p>
-
    <p> 
-     Caso esteja se perguntando onde está o resto do meu portfólio, eles estão no meu antigo GitHub (fui assaltado e perdi meu celular): <a href="https://github.com/LB-Okami">LB-Okami</a> 
+    - Por mais que minha especialização seja Back-end, hoje trabalho com Angular e Spring Boot.
+  </p>
+  <p> 
+     - Caso esteja se perguntando onde está o resto do meu portfólio, eles estão no meu antigo GitHub (fui assaltado e perdi meu celular): <a href="https://github.com/LB-Okami">LB-Okami</a> 
    </p> 
 </div>
 
