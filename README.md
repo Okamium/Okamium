@@ -12,7 +12,7 @@
 ##
 
 <div>
-  <img align="right" width="400px" src="https://github.com/Okamium/Okamium/blob/main/arthas.gif">
+  <img align="right" height="250px" width="400px" src="https://github.com/Okamium/Okamium/blob/main/arthas.gif">
   <a href="https://github.com/Okamium">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Okamium&theme=vision-friendly-dark&show_icons=true&count_private=true">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okamium&theme=vision-friendly-dark&layout=compact">
