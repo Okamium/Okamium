@@ -29,13 +29,13 @@
     - Although my specialization is in Back-end, I currently work with Angular and Spring Boot.
   </p>
   <p> 
-     - In case you are wondering where the rest of my portfolio is, it's on my old GitHub account (I was robbed and lost my phone): <a href="https://github.com/LB-Okami">LB-Okami</a> 
+     - In case you are wondering where the rest of my portfolio is, it is on my old GitHub account (I was robbed and lost my phone): <a href="https://github.com/LB-Okami">LB-Okami</a> 
    </p> 
 </div>
 
 ##
 
-# Technologies I use 💻
+# Technologies 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Okamium-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Okamium-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
