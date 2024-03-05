@@ -1,6 +1,6 @@
 
 
-# Olá, meu nome é Lucas, sou desenvolvedor com foco em Java e Spring! 🤖
+## Olá, meu nome é Lucas, sou desenvolvedor com foco em Java e Spring! 🤖
 
 <div> 
   <a href="https://www.linkedin.com/in/lucas-buzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a> 
