@@ -1,6 +1,6 @@
 
 
-## Olá, meu nome é Lucas, sou desenvolvedor com foco em Java e Spring! 🔭
+  ## Hello, my name is Lucas, I am a Java and Spring Software Developer! 🔭
 
 <div> 
   <a href="https://www.linkedin.com/in/lucas-buzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a> 
@@ -20,22 +20,22 @@
 
 ##
 
-# Sobre mim 🖋️
+# About Me🖋️
 <div>
   <p> 
-    - Sou programador há mais de 4 anos e atuo profissionalmente na área há 2 anos.
+    - I started programming 4 years ago and have been working professionally for about 2 years now.
   </p>
    <p> 
-    - Por mais que minha especialização seja Back-end, hoje trabalho com Angular e Spring Boot.
+    - Although my specialization is in Back-end, I currently work with Angular and Spring Boot.
   </p>
   <p> 
-     - Caso esteja se perguntando onde está o resto do meu portfólio, eles estão no meu antigo GitHub (fui assaltado e perdi meu celular): <a href="https://github.com/LB-Okami">LB-Okami</a> 
+     - In case you are wondering where the rest of my portfolio is, it's on my old GitHub account (I was robbed and lost my phone): <a href="https://github.com/LB-Okami">LB-Okami</a> 
    </p> 
 </div>
 
 ##
 
-# Tecnologias que utilizo 💻
+# Technologies I use 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Okamium-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Okamium-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
