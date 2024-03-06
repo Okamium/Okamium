@@ -20,7 +20,7 @@
 
 ##
 
-# About Me🖋️
+# About Me 🖋️
 <div>
   <p> 
     - I started programming 4 years ago and have been working professionally for about 2 years now.
